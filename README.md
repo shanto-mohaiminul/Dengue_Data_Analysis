@@ -1,3 +1,5 @@
+<h2>Analysis DashBoard</h2>
+![image](https://github.com/user-attachments/assets/96a9120f-a0c0-4389-935e-87d599cc562f)
 <h2>About Dataset</h2>
 Dengue Phenomenon in Bangladesh - Dhaka Region
 Dataset Description:
@@ -29,3 +31,5 @@ Gender: Gender of the survey respondent.
 
 <h3>Data Collection:</h3>
 The dataset is a result of a systematic survey conducted by [Kawsar Ahmad and Farzana Eva] to collect data on Dengue fever. Data collection is an ongoing process, and updates are made monthly to provide up-to-date information on the Dengue situation in Dhaka.
+
+
